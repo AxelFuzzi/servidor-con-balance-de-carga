@@ -1,0 +1,32 @@
+2023/03/14 14:41:40 [emerg] 15044#10960: bind() to 0.0.0.0:80 failed (10013: Intento de acceso a un socket no permitido por sus permisos de acceso)
+2023/03/14 14:42:12 [emerg] 17888#10144: bind() to 0.0.0.0:80 failed (10013: Intento de acceso a un socket no permitido por sus permisos de acceso)
+2023/03/14 14:45:57 [notice] 18340#5688: signal process started
+2023/03/14 14:48:54 [notice] 10688#2564: signal process started
+2023/03/14 14:50:05 [notice] 5688#14712: signal process started
+2023/03/14 15:05:42 [emerg] 13356#13372: bind() to 0.0.0.0:80 failed (10013: Intento de acceso a un socket no permitido por sus permisos de acceso)
+2023/03/14 15:06:23 [notice] 2440#6364: signal process started
+2023/03/14 15:06:23 [error] 2440#6364: CreateFile() "C:\Users\Koakuma\Desktop\nginx-1.23.3/logs/nginx.pid" failed (2: El sistema no puede encontrar el archivo especificado)
+2023/03/14 15:06:25 [emerg] 7488#8364: bind() to 0.0.0.0:80 failed (10013: Intento de acceso a un socket no permitido por sus permisos de acceso)
+2023/03/14 15:09:24 [emerg] 6280#13372: bind() to 0.0.0.0:80 failed (10013: Intento de acceso a un socket no permitido por sus permisos de acceso)
+2023/03/14 15:09:50 [emerg] 9676#8884: bind() to 0.0.0.0:80 failed (10013: Intento de acceso a un socket no permitido por sus permisos de acceso)
+2023/03/14 15:10:31 [notice] 5684#5688: signal process started
+2023/03/14 15:11:32 [notice] 5836#744: signal process started
+2023/03/14 15:11:39 [notice] 5888#5932: signal process started
+2023/03/14 15:12:16 [notice] 6588#6628: signal process started
+2023/03/14 15:52:54 [error] 5912#8220: *1 CreateFile() "./Clase30ProxyNginx/src/public/favicon.ico" failed (2: El sistema no puede encontrar el archivo especificado), client: 127.0.0.1, server: servidorprueba, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2023/03/14 16:04:41 [error] 5912#8220: *4 CreateFile() "./Clase30ProxyNginx/src/public/api/randoms" failed (3: El sistema no puede encontrar la ruta especificada), client: 127.0.0.1, server: servidorprueba, request: "GET /api/randoms HTTP/1.1", host: "localhost"
+2023/03/14 16:12:37 [emerg] 13208#8224: unexpected "}" in C:\Users\Koakuma\Desktop\nginx-1.23.3/conf/nginx.conf:22
+2023/03/14 16:12:59 [emerg] 7148#4432: unexpected "}" in C:\Users\Koakuma\Desktop\nginx-1.23.3/conf/nginx.conf:22
+2023/03/14 16:13:09 [emerg] 7144#260: unexpected "}" in C:\Users\Koakuma\Desktop\nginx-1.23.3/conf/nginx.conf:22
+2023/03/14 16:22:40 [notice] 1392#5608: signal process started
+2023/03/14 16:26:57 [notice] 9276#5756: signal process started
+2023/03/14 16:37:58 [notice] 15192#10464: signal process started
+2023/03/14 17:13:33 [notice] 14988#14748: signal process started
+2023/03/14 17:39:14 [notice] 11508#13280: signal process started
+2023/03/14 17:47:41 [notice] 3844#16176: signal process started
+2023/03/14 17:47:57 [notice] 8896#4852: signal process started
+2023/03/14 17:47:57 [error] 8896#4852: CreateFile() "C:\Users\Koakuma\Desktop\nginx-1.23.3/logs/nginx.pid" failed (2: El sistema no puede encontrar el archivo especificado)
+2023/03/14 17:48:08 [notice] 15460#11436: signal process started
+2023/03/14 17:48:08 [error] 15460#11436: CreateFile() "C:\Users\Koakuma\Desktop\nginx-1.23.3/logs/nginx.pid" failed (2: El sistema no puede encontrar el archivo especificado)
+2023/03/14 17:56:33 [emerg] 12360#3292: bind() to 0.0.0.0:80 failed (10013: Intento de acceso a un socket no permitido por sus permisos de acceso)
+2023/03/14 18:26:29 [notice] 14948#3076: signal process started
