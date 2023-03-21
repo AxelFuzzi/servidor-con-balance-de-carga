@@ -20,7 +20,7 @@ if (cluster.isPrimary){
     })
 }else{
     http.createServer((req, res) => {
-        res.writeHead(200);
+        res.writeHead(200);          
         res.end('hello word\n');
     }).listen(8000);
 
